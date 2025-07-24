@@ -18,4 +18,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: luckysponge1221/KADA_CICD_bingung:latest
+          tags: luckysponge1221/kada_cicd_bingung:latest
